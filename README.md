@@ -59,6 +59,7 @@ cd language-translator
 
 ### Snap 2 :- <img width="1366" height="724" alt="Image" src="https://github.com/user-attachments/assets/a8459e7a-3838-4382-ad96-3b869199bff1" />
 
+### Snap 3 :- <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4f629e89-03a1-4a61-88b4-5ae5c8667012" />
 
 ## Author
 
